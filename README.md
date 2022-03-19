@@ -1,4 +1,5 @@
-# deeperGATGNN
+# Phonon vibration frequency prediction using deeperGATGNN graph neural network
+
 This software package implements our developed model deeperGATGNN for vibrational frequency prediction.
 
 [Machine Learning and Evolution Laboratory](http://mleg.cse.sc.edu)
